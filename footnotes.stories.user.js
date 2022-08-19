@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name     Stories Footnotes
 // @match https://ponyfiction.org/story/*/chapter/add/
-// @version  1.0
+// @match https://ponyfiction.org/story/*/chapter/edit/
+// @version  1.0.1
 // @grant    none
 // @run-at document-end
 // ==/UserScript==
